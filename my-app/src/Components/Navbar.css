@@ -1,0 +1,24 @@
+.menu-wrapper{
+    background-color: #497cd859;
+}
+/* body.scrolled .menu-wrapper {
+    background-color: #555; /* New background color 
+} */
+nav{
+    font-size: 17px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #0874e9;
+    text-transform:capitalize;
+}
+#navbar li .nav-link{
+    color: #0874e9;
+}
+#navbar li .nav-link:hover{
+    color:#032850;
+}
+
+#navbar {
+    padding: 20px;
+    
+  }

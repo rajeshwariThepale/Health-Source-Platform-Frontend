@@ -1,0 +1,21 @@
+.logo-item{
+    padding: 20px;
+    margin-top: 10px;
+}
+.logoImg{
+    width: 30px ;
+    height: 30px;
+    margin-top: -7px;
+}
+.logoName{
+    font-size: 22px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #0874e9;
+    text-transform:capitalize;
+}
+
+.logoName:hover{
+    text-decoration: none;
+    color: #032850;
+}
